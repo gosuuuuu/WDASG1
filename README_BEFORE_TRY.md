@@ -5,3 +5,5 @@ START APACHE AND MYSQL
 IMPORT THE DATABASE INTO YOUR XAMPP MYSQLPHPADMIN
 WHERE THE DATABASE? - IN THE FOLDER 'database'
 AND GOOD TO GO
+
+For admin page, if want to try login into admin page, Text Na'aim
