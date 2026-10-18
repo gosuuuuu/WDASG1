@@ -2,6 +2,8 @@
 require_once "includes/header.php";
 ?>
 
+-- Test
+
 <section class="hero">
 
     <div class="hero-grid-layout">
